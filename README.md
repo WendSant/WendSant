@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Atualmente cursando ADS(Análise e desenvolvimento de sistemas) e estudando programação por meio de cursos. Desenvolvo alguns projetos pessoais para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. 
+Atualmente cursando ADS(Análise e desenvolvimento de sistemas) e estudando programação por meio de cursos. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. 
 
 - 🌱 Tecnologias que estou estudando HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, Node.js, MongoDB, ReactJs e Redux
 - 📩 E-mail para contato: wendsonsantanajps@gmail.com
