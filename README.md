@@ -15,6 +15,7 @@ Atualmente cursando An√°lise e desenvolvimento de sistemas e estudando programa√
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
 
+   
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
    <a href="https://www.linkedin.com/in/wendsant/">
     <img src="./github/linkedin.png" alt="linkedin" height="50">
