@@ -2,7 +2,7 @@
 
 Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. 
 
-- 🌱 Tecnologias que estou estudando JavaScript, ReactJs, JQuery, Node.js, MongoDB e Redux.
+- 🌱 Tecnologias que estou estudando JavaScript, Python, Java, ReactJs, JQuery, Node.js, MongoDB e Redux.
 - 📩 E-mail para contato: wendsonsantanajps@gmail.com
 
 - Meu linkedin: [Wendson Santana](https://www.linkedin.com/in/wendsant/)
