@@ -31,11 +31,11 @@ Currently studying Systems Analysis and Development and studying programming thr
 
 <!-- [![WendSant's github stats](https://github-readme-stats.vercel.app/api?username=wendsant&count_private=trueshow_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=WendSant&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=WendSant&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=WendSant&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=WendSant&count_private=trueshow_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WendSant&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendSant&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WendSant&hide=php&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendSant&hide=php&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)" />
 </a>
 </div>
 <div align="center">
