@@ -1,4 +1,4 @@
-## Olá 👋
+## Hello there 👋
 
 <!-- Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. -->
 
