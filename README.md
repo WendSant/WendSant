@@ -1,11 +1,13 @@
 ## Olá 👋
 
-Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios.
+<!-- Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. -->
 
-- 🌱 Tecnologias que estou estudando JavaScript, Python, Java, ReactJs, Node.js, MongoDB e Redux.
-- 📩 E-mail para contato: wendsonsantanajps@gmail.com
+Currently studying Systems Analysis and Development and studying programming through internet courses. I develop some personal projects and activities to help in fixing the contents learned, just below are some of my main repositories.
 
-- Meu linkedin: [Wendson Santana](https://www.linkedin.com/in/wendsant/)
+- 🌱 Technologias i'm learning Java, Spring Framework, JavaScript, Python, ReactJs, Node.js, MongoDB e Redux.
+- 📩 E-mail: wendsonsantanajps@gmail.com
+
+- Linkedin: [Wendson Santana](https://www.linkedin.com/in/wendsant/)
 
 ## Technologies:
 
