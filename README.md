@@ -6,7 +6,7 @@
 
 Currently studying Systems Analysis and Development and studying programming through internet courses. I develop some personal projects and activities to help in fixing the contents learned, just below are some of my main repositories.
 
-- 🌱 Technologias i'm learning Java, Spring Framework, JavaScript, Python, ReactJs, Node.js, MongoDB e Redux.
+- 🌱 Technologies i'm studying Java, Spring Framework, JavaScript, Python, ReactJs, Node.js, MongoDB e Redux.
 - 📩 E-mail: wendsonsantanajps@gmail.com
 
 - 💬Linkedin: [Wendson Santana](https://www.linkedin.com/in/wendsant/)
