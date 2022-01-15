@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=WendSant.WendSant) [![Github](https://img.shields.io/github/followers/WendSant?label=Followers&logo=Github)](https://github.com/WendSant)
+[![Github](https://img.shields.io/github/followers/WendSant?label=Followers&logo=Github)](https://github.com/WendSant)
 
 <!-- Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. -->
 
