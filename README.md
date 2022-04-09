@@ -4,7 +4,7 @@
 
 <!-- Atualmente cursando Análise e desenvolvimento de sistemas e estudando programação por meio de cursos na internet. Desenvolvo alguns projetos pessoais e atividades para ajudar na fixação dos conteúdos aprendidos, logo abaixo tem alguns dos meus principais repositórios. -->
 
-Currently studying Systems Analysis and Development and studying programming through internet courses. I develop some personal projects and activities to help in fixing the contents learned, just below are some of my main repositories.
+Currently studying Computer Science and learning programming through internet courses. I develop some projects and personal activities to help in the fixation of the content learned, just below are some of my main repositories.
 
 - 🌱 Technologies i'm studying Java, Spring Framework, JavaScript, Python, ReactJs, Node.js, MongoDB e Redux.
 - 💬Linkedin: [Wendson Santana](https://www.linkedin.com/in/wendsant/)
